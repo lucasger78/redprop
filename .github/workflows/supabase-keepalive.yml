@@ -2,8 +2,8 @@ name: Supabase KeepAlive
 
 on:
   schedule:
-    - cron: '0 12 * * 0'   # todos los domingos a las 12:00 UTC
-  workflow_dispatch:        # permite correrlo manualmente
+    - cron: "0 12 * * 0" # todos los domingos a las 12:00 UTC
+  workflow_dispatch: # permite correrlo manualmente.
 
 jobs:
   ping:
@@ -15,7 +15,7 @@ jobs:
       - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
-          node-version: '22'
+          node-version: "22"
 
       - name: Install deps
         run: npm install @supabase/supabase-js
