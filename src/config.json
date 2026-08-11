@@ -1,0 +1,13 @@
+{
+  "supabase": {
+    "url": "https://iquqhwibartcckxukhpq.supabase.co",
+    "anon_key": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImlxdXFod2liYXJ0Y2NreHVraHBxIiwicm9sZSI6ImFub24iLCJpYXQiOjE3ODI0MDk3NjQsImV4cCI6MjA5Nzk4NTc2NH0.l22DnQIHZPJK8LfDOTYLSCLzebPwr1JhpTQ03J4s3Nw",
+    "service_role_key": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImlxdXFod2liYXJ0Y2NreHVraHBxIiwicm9sZSI6InNlcnZpY2Vfcm9sZSIsImlhdCI6MTc4MjQwOTc2NCwiZXhwIjoyMDk3OTg1NzY0fQ.NoXhKswg6UT6-lRqRIbn69LKPblvJEOp-iP8thqsLOE"
+  },
+  "tables": {
+    "properties": "propiedades",
+    "visits": "visitas",
+    "tenants": "inquilinos",
+    "neighborhoods": "barrios"
+  }
+}
